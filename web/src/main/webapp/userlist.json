@@ -1,0 +1,22 @@
+calldata({
+	"member_list":[
+		{
+			"name":"크론병",
+			"age":"54",
+			"level":3,
+			"point":2500
+		},
+		{
+			"name":"도깨비",
+			"age":"54",
+			"level":1,
+			"point":54
+		},
+		{
+			"name":"헤이딜러",
+			"age":"54",
+			"level":2,
+			"point":1200
+		}
+	]
+})
